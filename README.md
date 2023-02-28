@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GripenlofKarlberg
 - 👀 I’m interested in sailing 
-- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me on email axel.karlberg@hotmail.com
 
